@@ -56,6 +56,7 @@ loop(i,0,n){  \
 
 
 void solve(){
+    //code here...
     
 }
 
