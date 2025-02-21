@@ -40,6 +40,7 @@ loop(i,0,n){  \
 }
 
 #define all(v) v.begin(), v.end()
+#define rall(v) v.rbegin(), v.rend()
 #define endl '\n'
 #define out(a) cout << a << endl
 #define out2(a,b) cout << a << " " << b << endl
