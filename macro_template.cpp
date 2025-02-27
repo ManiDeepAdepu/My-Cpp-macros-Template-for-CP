@@ -24,7 +24,7 @@ using namespace std;
 #define min4(a,b,c,d) min(min((a),(b)), min((c),(d)))
 
 #define vi vector<int>
-#define vvi vector<vector<int>>
+#define vvi vector<vector<int> >
 #define si set<int>
 #define pii pair<int,int>
 #define mii map<int,int>
