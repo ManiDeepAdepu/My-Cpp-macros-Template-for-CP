@@ -22,8 +22,8 @@ using namespace std;
 #define max4(a,b,c,d) max(max((a),(b)),max((c),(d)))
 #define min3(a,b,c) min(min((a),(b)),(c))
 #define min4(a,b,c,d) min(min((a),(b)), min((c),(d)))
-
 #define vi vector<int>
+#define vb vector<bool>
 #define vvi vector<vector<int> >
 #define si set<int>
 #define pii pair<int,int>
