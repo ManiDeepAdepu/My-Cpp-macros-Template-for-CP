@@ -32,7 +32,7 @@ using namespace std;
 #define umci unordered_map<char,int>
 #define qi queue<int>
 #define pqi priority_queue<int>
-
+#define INF 1000000000000000000LL // Infinity for ll
 #define vin(v,n)\
 vi v;          \
 loop(i,0,n){  \
