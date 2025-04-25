@@ -38,7 +38,7 @@ vi v;          \
 loop(i,0,n){  \
     in1(x);v.pb(x); \
 }
-
+#define vout(v,n) loop(i,0,min(n,v.size())) cout << v[i] << " ";
 #define all(v) v.begin(), v.end()
 #define rall(v) v.rbegin(), v.rend()
 #define endl '\n'
