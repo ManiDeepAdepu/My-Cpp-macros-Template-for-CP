@@ -38,6 +38,11 @@ vi v;          \
 loop(i,0,n){  \
     in1(x);v.pb(x); \
 }
+#define vinp(v,n)\
+vi v;          \
+loop(i,0,n){  \
+    in1(x);v.pb(x%2); \
+}
 #define vout(v) loop(i,0,v.size()) cout << v[i] << " ";
 #define all(v) v.begin(), v.end()
 #define rall(v) v.rbegin(), v.rend()
