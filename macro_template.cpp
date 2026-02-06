@@ -50,6 +50,7 @@ loop(i,0,n){  \
 #define out(a) cout << a << endl
 #define out2(a,b) cout << a << " " << b << endl
 #define out3(a,b,c) cout << a << " " << b << " " << c << endl
+#define out4(a,b,c,d) cout << a << " " << b << " " << c << " " << d << endl
 #define yes cout<<"YES"<< endl
 #define no cout<<"NO"<< endl
 #define fastio()         \
