@@ -18,6 +18,7 @@ using namespace std;
 #define in4(a,b,c,d) int a,b,c,d;cin>>a>>b>>c>>d
 #define in5(a,b,c,d,e) int a,b,c,d,e;cin>>a>>b>>c>>d>>e
 #define in6(a,b,c,d,e,f) int a,b,c,d,e,f;cin>>a>>b>>c>>d>>e>>f
+#define sin(s) string s;cin>>s;
 #define max3(a,b,c) max(max((a),(b)),(c))
 #define max4(a,b,c,d) max(max((a),(b)),max((c),(d)))
 #define min3(a,b,c) min(min((a),(b)),(c))
