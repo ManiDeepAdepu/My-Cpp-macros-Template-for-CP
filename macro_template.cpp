@@ -34,6 +34,7 @@ using namespace std;
 #define qi queue<int>
 #define pqi priority_queue<int>
 #define INF 1000000000000000000LL // Infinity for ll
+#define ceilDiv(a,b) ((a + b - 1) / b)
 #define vin(v,n)\
 vi v;          \
 loop(i,0,n){  \
