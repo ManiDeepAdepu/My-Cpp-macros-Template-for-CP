@@ -8,8 +8,8 @@ using namespace std;
 #define double long double
 #define ff first
 #define ss second
-#define ub(V,x) upper_bound(V.begin(),V.end(),x);
-#define lb(V,x) lower_bound(V.begin(),V.end(),x);
+#define ub(V,x) upper_bound(V.begin(),V.end(),x)
+#define lb(V,x) lower_bound(V.begin(),V.end(),x)
 #define loop(lcv,lower,upper) for(int lcv = lower; lcv < upper; lcv++)
 #define rloop(lcv,upper,lower) for(int lcv = upper;lcv>=lower;lcv--)
 #define in1(t) int t;cin>>t;
