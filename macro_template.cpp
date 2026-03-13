@@ -38,12 +38,12 @@ using namespace std;
 #define vin(v,n)\
 vi v;          \
 loop(i,0,n){  \
-    in1(x);v.pb(x); \
+    in1(e);v.pb(e); \
 }
 #define vinp(v,n)\
 vi v;          \
 loop(i,0,n){  \
-    in1(x);v.pb(x%2); \
+    in1(e);v.pb(e%2); \
 }
 #define vout(v)\
 loop(i,0,v.size()) cout << v[i] << " "; \
